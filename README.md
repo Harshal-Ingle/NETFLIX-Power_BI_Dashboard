@@ -29,6 +29,5 @@ The dataset includes **movie titles, genres, ratings, financials, and more**, of
 ---
 
 ## How to Use
-1. Clone the repository:
-   ```b
+https://github.com/Harshal-Ingle/NETFLIX-Power_BI_Dashboard
 
