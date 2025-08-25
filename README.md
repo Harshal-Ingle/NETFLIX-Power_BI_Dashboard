@@ -1,4 +1,4 @@
-#  Netflix Spotlight: IMDb Rating Trends (Power BI)
+#  Netflix Analysis (Power BI)
 
 An **interactive Power BI Dashboard** built to analyze the **Top 250 IMDb-rated movies**.  
 The dataset includes **movie titles, genres, ratings, financials, and more**, offering insights into **trends in ratings, genres, and box office performance**.
